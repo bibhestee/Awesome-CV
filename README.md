@@ -84,9 +84,9 @@ If you don't want to install the dependencies on your system, this can also be o
 At a command prompt, run
 
 ```bash
-xelatex {your-cv}.tex
+xelatex examples/{your-cv}.tex
 ```
-
+Run the above command in the root folder using WSL
 Or using docker:
 
 ```bash
